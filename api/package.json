@@ -1,0 +1,13 @@
+{
+  "name": "telegram-monday-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Monday.com notifications",
+  "main": "api/check-monday.js",
+  "scripts": {
+    "start": "node api/check-monday.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
